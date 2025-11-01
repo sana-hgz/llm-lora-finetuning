@@ -1,6 +1,4 @@
 # llm-lora-finetuning
-Parameter-efficient fine-tuning of Qwen2.5-0.5B using LoRA and 4-bit quantization for French text summarization on the OrangeSum dataset.
-# Fine-tuning LLM with LoRA for French Summarization
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
